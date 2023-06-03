@@ -5,7 +5,7 @@
 [![linkedin](https://user-images.githubusercontent.com/79592676/236402044-340c853a-170f-4687-aa14-6400517195f7.svg)](https://linkedin.com/in/erfan-gharib-40b80b207) 
 [![quera](https://user-images.githubusercontent.com/79592676/236402046-179c9253-1ef7-47e4-a50d-0677599ad758.svg)](https://quera.org/profile/bwyvwf) 
 [![telegram](https://user-images.githubusercontent.com/79592676/236402050-4d7bb2f8-ba00-42a1-b13b-8d0bfbb15e6d.svg)](https://t.me/ERFAN_Web_Dev)
-[![dribbble](https://github.com/erfanGharib/erfanGharib/assets/79592676/97be3232-ed8c-4b22-8547-85b9f213b22b)](https://dribbble.com/erfangharib5)
+[![dribbble](./dribbble.svg)](https://dribbble.com/erfangharib5)
 
 
 # Skills
