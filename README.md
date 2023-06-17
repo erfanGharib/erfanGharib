@@ -1,4 +1,4 @@
-![header](https://user-images.githubusercontent.com/79592676/236402790-322a10f6-5d0b-4068-aef5-477aa160d7a1.jpg)
+<img src="https://github.com/erfanGharib/erfanGharib/assets/79592676/a61c7e37-7aef-4d3d-a1c9-029ff091193f" style="width: 100%;">
 
 # Socials
 [![instagram](https://user-images.githubusercontent.com/79592676/236402037-92bf4d58-e443-4658-8103-d79cfe9735b7.svg)](https://instagram.com/erfan.igh)
